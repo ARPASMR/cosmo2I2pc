@@ -116,7 +116,7 @@ while (t<=t_siz)
  'define tp3h=(APCPsfc-APCPsfc(t-'intv'))'
 
 * produzione del file testuale: mantengo la vecchia nomenclatura per questioni di compatibilità
-* del software di protezione civile
+* del software utilizzato in p.civile
  file_out = dir_dati'/cosmoi2_estra_tp3_'dataplot run'_'year_fore monn_fore day_fore'-'hour_fore'.dat'
  say 'nome file output: 'file_out
  'run print_data.gs tp3h 'file_out' %.1f 'number_x
