@@ -1,0 +1,16 @@
+function month2number(mmm)
+
+if (mmm=JAN); mes=01; endif
+if (mmm=FEB); mes=02; endif
+if (mmm=MAR); mes=03; endif
+if (mmm=APR); mes=04; endif
+if (mmm=MAY); mes=05; endif
+if (mmm=JUN); mes=06; endif
+if (mmm=JUL); mes=07; endif
+if (mmm=AUG); mes=08; endif
+if (mmm=SEP); mes=09; endif
+if (mmm=OCT); mes=10; endif
+if (mmm=NOV); mes=11; endif
+if (mmm=DEC); mes=12; endif
+
+return (mes)
