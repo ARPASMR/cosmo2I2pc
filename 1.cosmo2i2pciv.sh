@@ -14,7 +14,7 @@
 #                  ca il run utilizza quello ragionevolmente
 #                  disponibile al momento del lancio.
 # Dipendenze:      cURL, cdo, perl, python, grib2ctl, gribmap,
-#                  GRAdS, ncftpput
+#                  GrADS, ncftpput
 #***************************************************************
 
 #-----------------------------------------------------------------------------------------
